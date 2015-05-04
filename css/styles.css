@@ -1,0 +1,26 @@
+body {
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgb(120, 175, 200);
+  width: 50%;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.balloon {
+  border: none;
+  border-radius: 50%;
+  color: white;
+  margin: 10px;
+  position: relative;
+}
+
+.boom {
+  font-size: 2em;
+  color: white;
+  border-style: dashed;
+}
